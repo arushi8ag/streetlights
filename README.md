@@ -1,1 +1,1 @@
-# streetlights
+# streetlight
